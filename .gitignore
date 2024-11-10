@@ -20,3 +20,5 @@
 # Eclipse
 .settings
 .project
+
+.vs/
